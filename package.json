@@ -1,0 +1,16 @@
+{
+  "name": "scrape-google-hotels",
+  "version": "0.0.1",
+  "description": "An artoo.js bookmarklet.",
+  "scripts": {
+    "start": "gulp work"
+  },
+  "main": "scrape-google-hotels.js",
+  "dependencies": {
+    "gulp": "~3.8.6",
+    "gulp-artoo": "*",
+    "gulp-uglify": "~0.3.1",
+    "gulp-webserver": "~0.5.0",
+    "gulp-rename": "~1.2.0"
+  }
+}
